@@ -1,0 +1,9 @@
+body {
+    background-image: url(image/background.jpg);
+    padding: 20px;
+    color: aliceblue;
+}
+.error {
+    color: red;
+    font-size: 0.9em;
+}
